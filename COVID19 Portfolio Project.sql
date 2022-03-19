@@ -1,5 +1,5 @@
 /*
-COVID-19 Data Exploration 
+COVID-19 Data Exploration by Eugene Luu
 Skills used: Joins, CTE's, Temp Tables, Windows Functions, Aggregate Functions, Creating Views, Converting Data Types
 */
 
